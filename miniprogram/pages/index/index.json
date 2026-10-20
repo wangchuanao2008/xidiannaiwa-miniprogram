@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "奶蛙电子科技大学",
+  "usingComponents": {
+    "image-view": "/components/image-view/index",
+    "open-source-cover": "/components/open-source-cover/index"
+  }
+}

@@ -1,0 +1,4 @@
+<view class="cover">
+  <view class="frog-panel"><image class="frog" src="/assets/naiwa-laugh.jpg" mode="aspectFit" aria-label="经典奶蛙捧腹大笑" /></view>
+  <view class="github-panel"><image class="github-mark" src="/assets/github-mark.png" mode="aspectFit" aria-label="GitHub 小猫图标" /><text class="github-name">GitHub</text></view>
+</view>
